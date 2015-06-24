@@ -1,0 +1,2 @@
+# RANGE QUERY
+scan 'events', {FILTER => "(PrefixFilter ('fe3ed5ff-daca-4e11-b1de-eeb4fc1e'))"}
